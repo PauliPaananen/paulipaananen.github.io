@@ -702,9 +702,9 @@ p {
 }
 
 /*--------------------------------------------------------------
-# Journal
+# Agenda
 --------------------------------------------------------------*/
-#journal, #journal-blog {
+#agenda, #agenda-blog {
   height: auto;
   width: 100%;
   background: #f7f7f7;
@@ -712,31 +712,31 @@ p {
   position: relative;
 }
 
-#journal-blog {
+#agenda-blog {
   background: #fff;
   padding-bottom: 30px;
 }
 
-#journal .journal-block {
+#agenda .agenda-block {
   display: inline-block;
   height: auto;
   width: 100%;
 }
 
-#journal .journal-block .journal-info {
+#agenda .agenda-block .agenda-info {
   position: relative;
 }
 
-.journal-block .journal-info img {
+.agenda-block .agenda-info img {
   max-width: 100%;
 }
 
-.journal-block .journal-info .journal-txt {
+.agenda-block .agenda-info .agenda-txt {
   padding: 25px 0px;
   position: relative;
 }
 
-.journal-block .journal-info .journal-txt h4 a {
+.agenda-block .agenda-info .agenda-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -746,19 +746,19 @@ p {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt h4 a:hover {
+.agenda-block .agenda-info .agenda-txt h4 a:hover {
   color: #b8a07e;
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt p {
+.agenda-block .agenda-info .agenda-txt p {
   margin: 0;
   font-size: 14px;
   line-height: 24px;
 }
 
 /*--------------------------------------------------------------
-# Journal
+# agenda
 --------------------------------------------------------------*/
 #contact {
   height: auto;
@@ -853,7 +853,7 @@ p {
 /*-----------------------------------------------------------------------------------*/
 /*  /* Single page */
 /*-----------------------------------------------------------------------------------*/
-#journal-blog {
+#agenda-blog {
   padding-top: 140px;
 }
 
@@ -878,7 +878,7 @@ p {
   width: 100%;
 }
 
-.journal-txt h4 a {
+.agenda-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -888,7 +888,7 @@ p {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-txt h4 a:hover {
+.agenda-txt h4 a:hover {
   color: #b8a07e;
   transition: all 0.5s ease-in-out 0s;
 }
@@ -1097,8 +1097,8 @@ blockquote {
     display: inline-block;
   }
 
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* agenda */
+  #agenda .agenda-block .agenda-info {
     margin-bottom: 30px;
   }
 
@@ -1178,8 +1178,8 @@ blockquote {
     display: inline-block;
   }
 
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* agenda */
+  #agenda .agenda-block .agenda-info {
     margin-bottom: 30px;
   }
 
@@ -1259,8 +1259,8 @@ blockquote {
     display: inline-block;
   }
 
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* agenda */
+  #agenda .agenda-block .agenda-info {
     margin-bottom: 30px;
   }
 
@@ -1339,8 +1339,8 @@ blockquote {
     margin: 20px;
   }
 
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* agenda */
+  #agenda .agenda-block .agenda-info {
     margin-bottom: 30px;
   }
 
@@ -1419,8 +1419,8 @@ blockquote {
     margin: 20px;
   }
 
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* agenda */
+  #agenda .agenda-block .agenda-info {
     margin-bottom: 30px;
   }
 
